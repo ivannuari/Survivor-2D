@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6347c4bf45db0cb4b9b95edb3aa5908e, type: 3}
+  m_Name: Characters Database
+  m_EditorClassIdentifier: 
+  characters:
+  - name: WIZARD
+    cost: 0
+    icon: {fileID: 21300000, guid: 755f8689cc0272545aff1e866ef340e2, type: 3}
+    prefab: {fileID: 2921880940271959218, guid: e46276dd75482da438f1ed5734db6950,
+      type: 3}
+    hasStartingAbility: 0
+    startingAbility: 0
+    baseHP: 100
+    baseDamage: 1
+  - name: Folk
+    cost: 500
+    icon: {fileID: 21300000, guid: abe6d794820f0a14e863b8713ebb50c0, type: 3}
+    prefab: {fileID: 556073864622925457, guid: 94f52d35b8e5de74ebf694deeb5c4ebc, type: 3}
+    hasStartingAbility: 0
+    startingAbility: 0
+    baseHP: 120
+    baseDamage: 1.2
+  - name: Knight
+    cost: 500
+    icon: {fileID: 21300000, guid: 4139aab14d5fc8343860bbe2600bf065, type: 3}
+    prefab: {fileID: 498794617331581601, guid: 704e332a88430c341b7f6a392e8c757e, type: 3}
+    hasStartingAbility: 0
+    startingAbility: 0
+    baseHP: 120
+    baseDamage: 1.2
+  - name: Archer
+    cost: 500
+    icon: {fileID: 21300000, guid: 621c5bc88ee2c894abd9e36b45e03d9e, type: 3}
+    prefab: {fileID: 8228786495556358795, guid: bc5740865200d7c488c8cfbf38dd5116,
+      type: 3}
+    hasStartingAbility: 0
+    startingAbility: 0
+    baseHP: 120
+    baseDamage: 1.2
+  - name: Crusader
+    cost: 500
+    icon: {fileID: 21300000, guid: 5ffa5a07dadebb34b8fc1cbf60cffcab, type: 3}
+    prefab: {fileID: 1519398398464850402, guid: c593133f8c6cd8f4f882438136eeb126,
+      type: 3}
+    hasStartingAbility: 0
+    startingAbility: 0
+    baseHP: 120
+    baseDamage: 1.2
+  - name: Barbarian
+    cost: 500
+    icon: {fileID: 21300000, guid: 1bb6846f1ea9303418f15a772510c1e8, type: 3}
+    prefab: {fileID: 5344556143652675119, guid: f453fa52600265943add338cdd71b712,
+      type: 3}
+    hasStartingAbility: 0
+    startingAbility: 0
+    baseHP: 120
+    baseDamage: 1.2
+  - name: Dancer
+    cost: 500
+    icon: {fileID: 21300000, guid: 250e54e2f55d2784cb1145ea23d61373, type: 3}
+    prefab: {fileID: 6888579759440035677, guid: 401f9f6e5080b6747aea993c3d7d22ea,
+      type: 3}
+    hasStartingAbility: 0
+    startingAbility: 0
+    baseHP: 120
+    baseDamage: 1.2

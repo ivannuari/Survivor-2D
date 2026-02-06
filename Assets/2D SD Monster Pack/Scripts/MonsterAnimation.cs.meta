@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 41b5287ae992e4274adbd3dd4719f6b1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 75733
+  packageName: 2D SD Monster Pack
+  packageVersion: 2.0
+  assetPath: Assets/2D SD Monster Pack/Scripts/MonsterAnimation.cs
+  uploadId: 412433

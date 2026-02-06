@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b4da9fa8cf6574d4d944387c1fdac26e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 183360
+  packageName: 2D SD Character Human Pack
+  packageVersion: 1.1
+  assetPath: Assets/2D SD Monster Pack/Scripts/HumanoidAnimation.cs
+  uploadId: 422866

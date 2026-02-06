@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 4d3ff9d8c65812a40a2c0fd5c92bf53f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 183360
+  packageName: 2D SD Character Human Pack
+  packageVersion: 1.1
+  assetPath: Assets/2D SD Monster Pack/Scripts/Acting.cs
+  uploadId: 422866
